@@ -6,7 +6,7 @@ Git Hub notes:<br>
 git clone : used for clonning the repo in your local system <br>
 git status: gets the status <br>
 untracked: new files that git doesn't yet track <br>
-modified: changed <br>
+modified(M): changed <br>
 staged: file is ready to be commit <br>
 unmodified: unchanged <br>
 
