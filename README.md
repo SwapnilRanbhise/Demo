@@ -1,8 +1,8 @@
 
 Author: Swapnil Ranbhise
 
-Git Hub notes:
-git clone : used for clonning the repo in your local system
+Git Hub notes:<br>
+git clone : used for clonning the repo in your local system <br>
 git status: gets the status
 untracked: new files that git doesn't yet track
 modified: changed
